@@ -7,7 +7,6 @@ I'm a passionate Software Engineer. I love building robust and scalable solution
 
 👨‍💻  All of my projects are available at [archv0rt3x.netlify.app/Project](https://archv0rt3x.netlify.app/project)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-archv0rt3x.netlify.app-green)](https://archv0rt3x.netlify.app)
 
 ## 🚀 Skills
 
