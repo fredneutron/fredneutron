@@ -3,7 +3,7 @@
 
 I'm a passionate Software Engineer. I love building robust and scalable solutions for web and mobile applications.
 
-🏢   I’m currently working at [Stucademy](https://stucademy.com/) as a Backend Developer
+🏢   I’m currently working at [Leom Technologies Limited](https://leomtechnologies.com/) as a Senior Software Engineer
 
 👨‍💻  All of my projects are available at [archv0rt3x.netlify.app/Project](https://archv0rt3x.netlify.app/project)
 
