@@ -5,8 +5,6 @@ I'm a passionate Software Engineer. I love building robust and scalable solution
 
 🏢   I’m currently working at [Leom Technologies Limited](https://leomtechnologies.com/) as a Senior Software Engineer
 
-👨‍💻  All of my projects are available at [archv0rt3x.netlify.app/Project](https://archv0rt3x.netlify.app/project)
-
 
 ## 🚀 Skills
 
@@ -15,6 +13,14 @@ I'm a passionate Software Engineer. I love building robust and scalable solution
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Front-End:** HTML, CSS (Bootstrap, Tailwind CSS), Vue.js, React.js, jQuery
 - **Tools & Platforms:** Git, Amazon Web Services (AWS), Jira, Postman
+
+## 🌟 Contributions
+
+-   **[Monnify Laravel Package](https://packagist.org/packages/monnify/monnify-laravel):** Authored and maintain the official Laravel Package for Monnify, published on Packagist. This package enables seamless integration with the Monnify Payment gateway and is designed for developer efficiency, scalability, and secure transactions. (Open source and publicly available under the MIT License).
+
+## 👨‍💻 Projects
+
+> All of my projects are available at [archv0rt3x.netlify.app/Project](https://archv0rt3x.netlify.app/project)   
 
 ## 🌱 Currently Learning
 
